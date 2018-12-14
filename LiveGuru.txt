@@ -1,0 +1,58 @@
+2018-12-14 16:27:36,066 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 01: Enter valid user id to userID textbox
+2018-12-14 16:27:36,272 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 02: Enter valid password to passowrd textbox
+2018-12-14 16:27:36,415 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 03: Click login button
+2018-12-14 16:27:39,175 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 04: Enter customer name
+2018-12-14 16:27:39,381 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 05: Enter DOB
+2018-12-14 16:27:39,558 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 06: Enter Address
+2018-12-14 16:27:39,749 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 07: Enter city
+2018-12-14 16:27:39,877 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 08: Enter state
+2018-12-14 16:27:39,996 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 09: Enter pin
+2018-12-14 16:27:40,135 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 10: Enter mobile
+2018-12-14 16:27:40,284 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 11: Enter email
+2018-12-14 16:27:40,479 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - Step 12: Enter password
+2018-12-14 16:27:42,709 INFO  com.bankguru.user.User_04_Payment - Payment - TC 01 - VP 01: Verify add customer successfully mesage displayed
+2018-12-14 16:27:42,846 INFO  com.bankguru.user.User_04_Payment - -------------------------------------------------
+2018-12-14 16:27:42,847 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:43,818 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:43,949 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:44,931 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,114 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,283 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,417 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,552 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,694 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:45,882 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:47,066 INFO  com.bankguru.user.User_04_Payment - Payment - TC 02 - Step 01: Enter 
+2018-12-14 16:27:47,120 INFO  com.bankguru.user.User_04_Payment - -------------------------------------------------
+2018-12-14 16:27:47,122 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - Step 01: Enter 
+2018-12-14 16:27:48,107 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - Step 01: Enter 
+2018-12-14 16:27:48,248 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - Step 01: Enter 
+2018-12-14 16:27:48,361 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - Step 01: Enter 
+2018-12-14 16:27:48,486 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - Step 01: Click 
+2018-12-14 16:27:49,628 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - VP 01: Verify 
+2018-12-14 16:27:49,679 INFO  com.bankguru.user.User_04_Payment - Payment - TC 03 - VP 01: Verify 
+2018-12-14 16:27:49,804 INFO  com.bankguru.user.User_04_Payment - -------------------------------------------------
+2018-12-14 16:27:49,805 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:50,751 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:50,943 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:51,054 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:51,181 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:52,357 INFO  com.bankguru.user.User_04_Payment - Payment - TC 04 - Step 01: Enter 
+2018-12-14 16:27:52,493 INFO  com.bankguru.user.User_04_Payment - -------------------------------------------------
+2018-12-14 16:27:52,494 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:53,535 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:53,649 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:53,761 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:53,866 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:54,758 INFO  com.bankguru.user.User_04_Payment - Payment - TC 05 - Step 01: Enter 
+2018-12-14 16:27:54,863 INFO  com.bankguru.user.User_04_Payment - -------------------------------------------------
+2018-12-14 16:27:54,864 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:55,982 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:56,168 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:56,289 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:56,385 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:56,498 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:57,193 INFO  com.bankguru.user.User_04_Payment - Payment - TC 06 - Step 01: Enter 
+2018-12-14 16:27:57,229 INFO  com.bankguru.user.User_04_Payment - Payment - TC 07 - Step 01: Enter 
+2018-12-14 16:27:57,244 INFO  com.bankguru.user.User_04_Payment - Payment - TC 08 - Step 01: Enter 
+2018-12-14 16:27:57,253 INFO  com.bankguru.user.User_04_Payment - Payment - TC 09 - Step 01: Enter 
